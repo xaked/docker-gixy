@@ -2,3 +2,4 @@
 CODEOWNERS
 Dockerfile
 readme.md
+.dockerignore
